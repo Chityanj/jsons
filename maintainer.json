@@ -239,5 +239,12 @@
         "maintainer": "Yomatsun",
         "telegram": "Yomatsun",
         "xda_thread": ""
+    },
+    }   "codename": "ocean",   
+        "brand": "Motorola",
+        "name": "Moto G7 Power",
+        "maintainer": "Electimon",
+        "telegram": "electimon",
+        "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-revengeos-4-0-t4183529/"
     }
 ]
