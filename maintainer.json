@@ -20,9 +20,9 @@
         "codename": "chiron",
         "brand": "Xiaomi",
         "name": "Xiaomi MI Mix 2",
-        "maintainer": "Andrey S. Shidakov",
-        "telegram": "andr68rus",
-        "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-revengeos-3-1-t4050445"
+        "maintainer": "xSylla",
+        "telegram": "xSylla",
+        "xda_thread": "https://forum.xda-developers.com/mi-mix-2/development/rom-revengeos-4-0-chiron-t4184711"
     },
     {
         "codename": "platina",
@@ -86,7 +86,7 @@
         "name": "Xiaomi Mi 9",
         "maintainer": "Giovix92",
         "telegram": "Giovix92",
-        "xda_thread": "https://forum.xda-developers.com/Mi-9/review/rom-revengeos-3-2-cepheus-t4137725"
+        "xda_thread": "https://forum.xda-developers.com/Mi-9/development/rom-revengeos-4-0-mi-9-cepheus-t4173859"
     },
     {
         "codename": "rolex",
@@ -247,5 +247,30 @@
         "maintainer": "Electimon",
         "telegram": "electimon",
         "xda_thread": "https://forum.xda-developers.com/g7-power/development/rom-revengeos-4-0-t4183529/"
+    },
+    {
+        "codename": "miatoll",
+        "brand": "Xiaomi",
+        "name": "Redmi Note 9S, 9 Pro, 9 Pro Max & Poco M2 Pro Unified",
+        "maintainer": "Reza Bagas Rifaldy",
+        "telegram": "GrettoRosella",
+        "xda_thread": "https://forum.xda-developers.com/redmi-note-9-pro/development/rom-revengeos-redmi-note-9-pro-joyeuse-t4184745"
+    },
+    {
+        "codename": "jasmine_sprout",
+        "brand": "Xiaomi",
+        "name": "Mi A2",
+        "maintainer": "OdSazib",
+        "telegram": "OdSazib",
+        "xda_thread":"https://forum.xda-developers.com/mi-a2/development/11-0-revengeos-4-0-xiaomi-mi-a2-t4169151"
+    },
+    {
+        "codename": "wayne",
+        "brand": "Xiaomi",
+        "name": "Mi 6X",
+        "maintainer": "OdSazib",
+        "telegram": "OdSazib",
+        "xda_thread":"https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/11-0-revengeos-4-0-xiaomi-mi-6x-wayne-t4169181"
     }
+    
 ]
