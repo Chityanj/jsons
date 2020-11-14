@@ -271,6 +271,14 @@
         "maintainer": "OdSazib",
         "telegram": "OdSazib",
         "xda_thread":"https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/11-0-revengeos-4-0-xiaomi-mi-6x-wayne-t4169181"
+    },
+    {
+        "codename": "kunlun2",
+        "brand": "Lenovo",
+        "name": "Z6 Lite",
+        "maintainer": "Giammarco Senatore",
+        "telegram": "GiaSen",
+        "xda_thread": ""
     }
     
 ]
