@@ -279,6 +279,14 @@
         "maintainer": "hypercleric",
         "telegram": "hypercleric",
         "xda_thread": ""
+    },
+    {
+        "codename": "dumpling",
+        "brand": "OnePlus",
+        "name": "5T",
+        "maintainer": "Karthik N",
+        "telegram": "zorock",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-5/oneplus-5--5t-cross-device-development/rom-revenge-os-t4196305"
     }
     
 ]
