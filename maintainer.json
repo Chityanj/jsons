@@ -330,11 +330,11 @@
     },
     {
         "codename": "lake",
-	    "brand": "Motorola",
-	    "name": "Moto G7 Plus",
-	    "maintainer": "Fraaxius",
-	    "telegram": "Fraaxius",
-	    "xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-unofficial-revengeos-4-0-03-12-21.4256961"
+	"brand": "Motorola",
+	"name": "Moto G7 Plus",
+        "maintainer": "Fraaxius",
+	"telegram": "Fraaxius",
+	"xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-unofficial-revengeos-4-0-03-12-21.4256961"
     }
     
 ]
