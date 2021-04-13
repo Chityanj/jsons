@@ -9,6 +9,7 @@
         "xda_thread": ""
     },
     {
+	"codename": "surya",
         "brand": "Poco",
         "name": "X3 NFC",
         "maintainer": "Reza Bagas Rifaldy",
@@ -22,6 +23,14 @@
         "maintainer": "Ethan Halsall",
         "telegram": "ethanhalsall",
         "xda_thread": "https://forum.xda-developers.com/mi-8/development/rom-revengeos-2-4-dippper-t3942956"
+    },
+    {
+	"codename": "bretzel",
+        "brand": "ulefone",
+        "name": "Armor X5",
+        "maintainer": "jmpfbmx",
+        "telegram": "jmpf_bmx",
+        "xda_thread": "https://forum.xda-developers.com/android/development/rom-revengeos-3-2-ulefone-armor-x5-t4173863"
     },
     {
         "codename": "chiron",
