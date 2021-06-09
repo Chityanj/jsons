@@ -9,6 +9,14 @@
         "xda_thread": ""
     },
     {
+	"codename": "guacamole",
+    	"brand": "OnePlus",
+        "name": "OnePlus 7 Pro",
+        "maintainer": "Flawn",
+        "telegram": "@fl4wn",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-guacamole-revengeos-4-0-1-11-2020.4177515/"    
+    },
+    {
 	"codename": "surya",
         "brand": "Xiaomi",
         "name": "X3 NFC",
@@ -247,6 +255,14 @@
         "maintainer": "RealOkabe",
         "telegram": "RealOkabe",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-revengeos-4-0-official.4276847/"
+    },
+    {
+        "codename": "walleye",
+        "brand": "Google",
+        "name": "Pixel 2 ",
+        "maintainer": "RealOkabe",
+        "telegram": "RealOkabe",
+        "xda_thread": ""
     },
     {   
         "codename": "ocean",   
