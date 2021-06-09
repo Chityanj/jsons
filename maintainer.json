@@ -30,7 +30,7 @@
         "name": "Armor X5",
         "maintainer": "jmpfbmx",
         "telegram": "jmpf_bmx",
-        "xda_thread": "https://forum.xda-developers.com/android/development/rom-revengeos-3-2-ulefone-armor-x5-t4173863"
+        "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-0-for-ulefone-armor-x5-aka-bretzel.4261331"
     },
     {
         "codename": "chiron",
@@ -52,17 +52,17 @@
         "codename": "rosy",
         "brand": "Xiaomi",
         "name": "Redmi 5",
-        "maintainer": "PratyakshM",
-        "telegram": "pratyakshm",
-        "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-revengeos-3-2-xiaomi-redmi-5-rosy-t4098099"
+        "maintainer": "Pulkit Agarwal",
+        "telegram": "Pulkit077",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-revengeos-4-0-xiaomi-redmi-5-rosy-offical.4167969"
     },
     {
         "codename": "whyred",
         "brand": "Xiaomi",
         "name": "Redmi Note 5 Pro",
-        "maintainer": "SebaUbuntu",
-        "telegram": "SebaUbuntu",
-        "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-revengeos-3-1-xiaomi-redmi-note-5-t4061869"
+        "maintainer": "Reinazhard",
+        "telegram": "eve_enryu",
+        "xda_thread": " "
     },
     {
         "codename": "zippo",
@@ -188,8 +188,8 @@
         "codename": "beryllium",
         "brand": "Xiaomi",
         "name": "Poco F1",
-        "maintainer": "Deadpool1704",
-        "telegram": "Deadpool1704",
+        "maintainer": "ThunderkeX",
+        "telegram": "ThunderkeX",
         "xda_thread": ""
     },
     {
@@ -220,9 +220,9 @@
         "codename": "vince",
         "brand": "Xiaomi",
         "name": "Redmi 5 Plus",
-        "maintainer": "Starlight",
-        "telegram": "star2834",
-        "xda_thread": "https://forum.xda-developers.com/redmi-note-5/development/aosp-rom-revengeos-3-0-xiaomi-redmi-t4139767"
+        "maintainer": "Anurag Chorghe",
+        "telegram": "starlight5234",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-r-beta-revengeos-4-0-xiaomi-redmi-note-5-5-plus-vince-official.4183131/"
     },
     {
         "codename": "raphael",
@@ -244,9 +244,9 @@
         "codename": "taimen",
         "brand": "Google",
         "name": "Pixel 2 XL",
-        "maintainer": "Yomatsun",
-        "telegram": "Yomatsun",
-        "xda_thread": ""
+        "maintainer": "RealOkabe",
+        "telegram": "RealOkabe",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-taimen-revengeos-4-0-official.4276847/"
     },
     {   
         "codename": "ocean",   
@@ -326,7 +326,7 @@
  	    "name": "Redmi Note 8 Pro",
  	    "maintainer": "NextWorks",
  	    "telegram": "NextWorksGFX",
- 	    "xda_thread": ""
+ 	    "xda_thread": "https://forum.xda-developers.com/t/rom-non-cfw-11-0-official-revengeos-v4-0.4215617/"
     },
     {
         "codename": "violet",
@@ -345,11 +345,19 @@
         "xda_thread": ""
     },
     {
+	"codename": "pyxis",
+        "brand": "Xiaomi",
+        "name": "Mi 9 Lite",
+        "maintainer": "Cristian",
+        "telegram": "crstnn",
+        "xda_thread": ""
+    },
+    {
         "codename": "lake",
 	"brand": "Motorola",
 	"name": "Moto G7 Plus",
-        "maintainer": "Fraaxius",
-	"telegram": "Fraaxius",
+        "maintainer": "Fraaxius and Deivid Ignacio",
+	"telegram": "Fraaxius, Deivid_21",
 	"xda_thread": "https://forum.xda-developers.com/t/rom-11-lake-official-revengeos-4-0-beta.4256961"
     }
     
