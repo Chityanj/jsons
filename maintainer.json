@@ -9,6 +9,14 @@
         "xda_thread": ""
     },
     {
+	"codename": "RMX2001",
+        "brand": "Realme",
+        "name": "Realme 6(G90T series)",
+        "maintainer": "nero",
+        "telegram": "bx2_nero",
+        "xda_thread": ""
+    },
+    {
 	"codename": "guacamole",
     	"brand": "OnePlus",
         "name": "OnePlus 7 Pro",
