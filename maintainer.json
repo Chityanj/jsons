@@ -37,8 +37,9 @@
 	"brand": "Realme",
         "name": "5 Pro",
         "maintainer": "a1kara",
-        "telegram": "a1kara",
-    },   "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-revengeos-4-0-realme-5-pro-rmx1971-official.4295377/"
+        "telegram": "a1kara",   
+	"xda_thread": "https://forum.xda-developers.com/t/rom-aosp-revengeos-4-0-realme-5-pro-rmx1971-official.4295377/"
+     },
     {
 	"codename": "surya",
         "brand": "Xiaomi",
