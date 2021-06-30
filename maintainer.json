@@ -9,12 +9,20 @@
         "xda_thread": ""
     },
     {
-	"codename": "RMX2001",
+	"codename": "RMX1971",
         "brand": "Realme",
         "name": "Realme 6(G90T series)",
         "maintainer": "nero",
         "telegram": "bx2_nero",
         "xda_thread": ""
+    },
+    {
+	"codename": "daisy",   
+        "brand": "Xiaomi",
+        "name": "Mi A2 Lite",
+        "maintainer": "Proxer05",
+        "telegram": "proxer05",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-11-aosp-revengeos-4-0-xiaomi-mi-a2-lite-daisy-official.4295271"
     },
     {
 	"codename": "guacamole",
@@ -24,6 +32,13 @@
         "telegram": "@fl4wn",
         "xda_thread": "https://forum.xda-developers.com/t/rom-11-0-guacamole-revengeos-4-0-1-11-2020.4177515/"    
     },
+    {
+	"codename": "a1kara",    
+	"brand": "Realme",
+        "name": "5 Pro",
+        "maintainer": "a1kara",
+        "telegram": "a1kara",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-aosp-revengeos-4-0-realme-5-pro-rmx1971-official.4295377/"
     {
 	"codename": "surya",
         "brand": "Xiaomi",
