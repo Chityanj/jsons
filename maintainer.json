@@ -1,7 +1,7 @@
 [
    {
         "codename": "beryllium",
-        "brand": "Poco",
+        "brand": "Xiaomi",
         "name": "F1",
         "maintainer": "ThunderkeX",
         "telegram": "ThunderkeXxX",
@@ -137,7 +137,7 @@
     },
     {
         "codename": "surya",
-        "brand": "POCO",
+        "brand": "Xiaomi",
         "name": "Poco X3 NFC",
         "maintainer": "Reza Bagas Rifaldy",
         "telegram": "GrettoRosella",
