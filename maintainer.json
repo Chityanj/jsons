@@ -1,5 +1,22 @@
 [
    {
+        "codename": "bardock",
+        "brand": "BQ",
+        "name": "Aquaris X",
+        "maintainer": "jmpfbmx",
+        "telegram": "jmpf_bmx",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-1-for-bq-aquaris-x-and-x-pro-aka-bardock-bardockpro.4319843/"
+    },
+   {
+        "codename": "bardockpro",
+        "brand": "BQ",
+        "name": "Aquaris X Pro",
+        "maintainer": "jmpfbmx",
+        "telegram": "jmpf_bmx",
+        "xda_thread": "https://forum.xda-developers.com/t/rom-official-revengeos-4-1-for-bq-aquaris-x-and-x-pro-aka-bardock-bardockpro.4319843/"
+    },
+   
+   {
         "codename": "beryllium",
         "brand": "Xiaomi",
         "name": "F1",
@@ -190,5 +207,45 @@
         "maintainer": "Zhenxiang Chen",
         "telegram": "pasta_con_tonno",
         "xda_thread": "https://forum.xda-developers.com/android/development/android-10-revengeos-3-1-lenovo-z6-pro-t4030703"
+    },
+   {
+        "codename": "X01BD",
+        "brand": "Asus",
+        "name": "Max Pro M2",
+        "maintainer": "Puneet Gautam",
+        "telegram": "jartinup",
+        "xda_thread": "https://forum.xda-developers.com/t/unofficial-revenge-os-4-1r-vanilla-android-11-asus-max-pro-m2-x01bd.4324017/"
+    },
+   {
+        "codename": "pine",       
+        "brand": "Xiaomi",
+        "name": "Redmi 7A",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "me_cafebabe",
+        "xda_thread": ""
+    },
+   {    
+        "codename": "olives",
+        "brand": "Xiaomi",
+        "name": "Redmi 8 Series",
+        "maintainer": "0xCAFEBABE, ChuckDXD",
+        "telegram": "me_cafebabe, ChuckDXD",
+        "xda_thread": ""
+    },
+   {
+        "codename": "rova",
+        "brand": "Xiaomi",
+        "name": "Redmi 4A / 5A",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "me_cafebabe",
+        "xda_thread": ""
+    },
+   {
+        "codename": "tiare",
+        "brand": "Xiaomi",
+        "name": "Redmi Go",
+        "maintainer": "0xCAFEBABE",
+        "telegram": "me_cafebabe",
+        "xda_thread": ""
     }
 ]
